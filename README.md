@@ -49,6 +49,11 @@ Docker volumes are managed by Docker itself, offering better isolation and easie
 
 ## Instructions
 
+# Prerequisites
+```bash
+sudo apt-get install docker docker-compose make
+```
+
 # Environment
 
 Create the environement variables and replace your login
